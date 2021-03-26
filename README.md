@@ -11,3 +11,4 @@
 - [Django](https://www.djangoproject.com/)(Python)
 - [Vue.js](https://jp.vuejs.org/index.html)(JavaScript)
 - [Docker](https://www.docker.com/)
+- その他（HTML,CSSなど）
