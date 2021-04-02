@@ -13,3 +13,5 @@
 - [Vue.js](https://jp.vuejs.org/index.html)(JavaScript)
 - [Docker](https://www.docker.com/)
 - その他（HTML,CSSなど）
+
+＊詳細が決まり次第，追記していきます
